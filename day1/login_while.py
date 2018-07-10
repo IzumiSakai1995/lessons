@@ -2,7 +2,7 @@
 #date:2018/6/20
 
 
-_user = 'LZ'
+_user = 'Izumi'
 _passwd = 'abc123'
 passed_authentication = False
 counter = 0
