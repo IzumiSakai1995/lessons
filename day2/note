@@ -1,0 +1,31 @@
+for i,v in enumerate(xxxx,1)
+
+for i in xxx(任意可迭代对象)
+字典：
+    不可变类型：整形，字符串，元组
+    可变：列表 字典。
+    字典的key必须为不可变类型   ，字典无序
+
+    增：
+        dict = {'name':liu zheng,'age' : 22}
+        dict = {'name'} = ChenWenKang
+
+        增加多个：
+            dict.setdefault('age':34,'work':std)#如果有key 不做任何修改，并返回已存在的Value值 如果没有key 则添加并返回新增的Value
+
+
+    查
+         print(dict.keys)
+         print(dict.Values)
+         print(dict.Items)
+
+    改   dict.update(dict2) 重复的覆盖
+
+
+      删    del dict['Key']
+            dict.clear()
+            dict.pop['Key']
+            dict.popitem 随机删除某键值对，并返回
+
+    字符串：
+        方法：

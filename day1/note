@@ -1,0 +1,36 @@
+占位符
+    %s      s = string 字符串
+    %d      d = digit 整数
+    %f      f = float 浮点数
+
+
+数据运算：
+    数据类型:
+        数字
+            整形：
+                整形
+                长整形
+                py3不区分整形长整形
+
+        布尔  只有两种状态，分别是
+            真   True
+            假   False
+
+        字符串
+            salary.isgigit()
+            计算机中，一切皆为对象
+
+
+            浮点型
+
+
+         列表，元祖
+            .append 添加到末尾
+            .insert(location,value) 根据搜引号插入
+            .remove(value)
+            a.pop(location) 抛出索引值位置的值，并返回被删除的值
+            .del 删除对象或者固定内容
+
+            .count 查询元素出现次数
+            .exten 列表加
+            .index 根据value查询位置 相同元素取第一个
